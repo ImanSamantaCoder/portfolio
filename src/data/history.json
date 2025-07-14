@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Web development intern",
+    "organisation": "Unified Mentor",
+    "startDate": "january,2025",
+    "endDate": "june,2025",
+    "experiences": ["bluided project assined my Mentor builded student teacher appoitment system,sports website"],
+    "imageSrc": "history/unifiedmentor.jpeg"
+  },
+  {
+    "role": "Machine Learning Intern",
+    "organisation": "Ailabs",
+    "startDate": "June, 2023",
+    "endDate": "Aug, 2023",
+    "experiences": ["Worked on mini projects like diabetes prediction,email spam classification"],
+    "imageSrc": "history/Ailabs.png"
+  }
+  
+]
